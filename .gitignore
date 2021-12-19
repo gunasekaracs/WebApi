@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WebApi/v17/.suo
+/.vs
+/Delta.Web.Api/Delta.Web.Api/obj
+/Delta.Web.Api/.vs/Delta.Web.Api
+/Delta.Web.Api/Delta.Web.Api/bin/Debug/net6.0
